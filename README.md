@@ -22,7 +22,7 @@
    instantiate
    ```
    *NB: Vérifier que vous avez télécharger les fichiers Manifest.toml et Project.toml depuis ce repo avant de lancer les commandes ci-dessus.*
-3. Une fois c'est terminé, Télécharger les notebooks en locale et placez les dans le repertoire TIN.
+3. Une fois c'est terminé, Télécharger les notebooks contenus dans le répertoire source et placez les dans le repertoire TIN.
 4. Relancer julia
 5. Executez les commandes suivantes:
    ```julia
